@@ -1,0 +1,13 @@
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.xml
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.xml
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\ResolveAssemblyReference.cache
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.MainForm.resources
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.Resources.resources
+C:\I_2009\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.vbproj.GenerateResource.Cache
+C:\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+C:\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.xml
+C:\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb

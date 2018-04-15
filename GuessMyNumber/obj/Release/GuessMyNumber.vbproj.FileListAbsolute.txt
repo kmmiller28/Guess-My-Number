@@ -1,0 +1,10 @@
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\bin\Release\GuessMyNumber.exe
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\bin\Release\GuessMyNumber.pdb
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\bin\Release\GuessMyNumber.xml
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Release\ResolveAssemblyReference.cache
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Release\GuessMyNumber.MainForm.resources
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Release\GuessMyNumber.Resources.resources
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Release\GuessMyNumber.vbproj.GenerateResource.Cache
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Release\GuessMyNumber.exe
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Release\GuessMyNumber.xml
+E:\xiaoli\courses_troy\I_2008\3347\solutions\GuessMyNumber\GuessMyNumber\obj\Release\GuessMyNumber.pdb
